@@ -28,7 +28,7 @@ class TestCalculator(unittest.TestCase):
 # Main application
 if __name__ == "__main__":
 
-    print("Student Calculator Application")
+    print("Student Calculator Application through jenkins and webhooks")
     print("Addition:", add(10, 20))
     print("Subtraction:", subtract(20, 10))
     print("Multiplication:", multiply(5, 4))
